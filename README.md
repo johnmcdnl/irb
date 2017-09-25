@@ -1,1 +1,1 @@
-Calcualte Ratings Based on the IRB ranking system
+Calculate Ratings Based on the IRB ranking system
